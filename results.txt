@@ -1,0 +1,4 @@
+Date: Mon Sep 14 12:52:15 2020 
+Generations: 10
+Max score: 85
+
